@@ -3,3 +3,8 @@ D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibra
 D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
 D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.dll
 D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.pdb
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibrary\bin\Debug\DataLibrary.dll.config
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibrary\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.dll
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\DataLibrary\bin\Debug\Dapper.xml

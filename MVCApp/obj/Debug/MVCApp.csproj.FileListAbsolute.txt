@@ -76,3 +76,9 @@ D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\ob
 D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\obj\Debug\MVCApp.csproj.CopyComplete
 D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\obj\Debug\MVCApp.dll
 D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\obj\Debug\MVCApp.pdb
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\bin\Oracle.ManagedDataAccess.dll
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\bin\Dapper.dll
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\bin\DataLibrary.dll
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\bin\DataLibrary.pdb
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\bin\DataLibrary.dll.config
+D:\Keen\Documents\Visual Studio 2019\Projects\MVCAppFromDatabaseToForm\MVCApp\bin\Dapper.xml
